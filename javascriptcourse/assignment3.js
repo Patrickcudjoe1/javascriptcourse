@@ -38,4 +38,5 @@ console.log(numbers[2])
 
 // question 8
 // arrays start from index 0 because the first element is zero steps away from the starting point.
-// index means distance from the start not position number.
+
+// index  in this context means distance from the start not position number.
